@@ -13,3 +13,6 @@ cd folder/path
 
 ## if I make changes
 git pull
+
+
+Lets change from website
