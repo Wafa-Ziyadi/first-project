@@ -2,7 +2,7 @@
 
 eating with Victoria
 
-#Nvaigate folders
+#Navigate folders
 ls 
 cd folder/path
 #git useful code
