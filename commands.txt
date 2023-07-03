@@ -3,3 +3,4 @@ TODO List:
 2. commit the changes using git commit -a -m 'Your message'
 3. Upload the changes to the online repo using git push
 4. Redo every thing.
+5. Do it again.
