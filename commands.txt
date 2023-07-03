@@ -2,3 +2,4 @@ TODO List:
 1. Check if the repository is up-to-date by git pull
 2. commit the changes using git commit -a -m 'Your message'
 3. Upload the changes to the online repo using git push
+4. Redo every thing.
